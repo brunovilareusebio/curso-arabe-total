@@ -1,1 +1,4 @@
-Tutorial: Passo a passo para subir no GitHub como se você tivesse 8 anos.
+1. Extraia todos os arquivos
+2. Crie repositório no GitHub
+3. Suba todos os arquivos arrastando
+4. Ative o GitHub Pages em Settings > Pages

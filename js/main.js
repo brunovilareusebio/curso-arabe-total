@@ -1,0 +1,1 @@
+console.log('Curso ÁRABE TOTAL carregado com sucesso');
